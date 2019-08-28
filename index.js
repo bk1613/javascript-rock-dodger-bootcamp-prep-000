@@ -120,7 +120,7 @@ function moveDodger(e) {
    * And be sure to use the functions declared below!
    */
    moveDodgerLeft()
-   
+   moveDodgerRight()
 }
 
 function moveDodgerLeft() {
